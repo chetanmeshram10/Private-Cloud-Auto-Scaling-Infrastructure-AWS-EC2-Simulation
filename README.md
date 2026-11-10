@@ -178,7 +178,16 @@ sudo virsh net-start default
 
 ## 👨‍💻 Author
 
-Prateek Choudhary
+## **Chetan Meshram**
+
+**Mtech IT IIITA Student | Blockchain & Cryptography Enthusiast**
+
+🔗 GitHub: https://github.com/chetanmeshram10
 
 ---
-# Private-Cloud-Auto-Scaling-Infrastructure-AWS-EC2-Simulation
+
+## ⭐ Support
+If you found this project useful:
+- ⭐ Star the repository
+- 🍴 Fork it
+- 📢 Share
